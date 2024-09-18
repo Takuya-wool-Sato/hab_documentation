@@ -1,15 +1,17 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "HAB Engineer documentation(仮)",
+  "service": "サービス",
+  "advanced": "開発関連",
   "about": {
-    "title": "About",
-    "type": "page"
+    "title": "About ↗",
+    "type": "page",
+    "href": "https://hab-co.jp/about/",
+    "newWindow": true
   },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://hab-co.jp/contact/",
     "newWindow": true
   }
 }
